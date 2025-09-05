@@ -1,0 +1,395 @@
+State,City,PM2.5,PM10,O3,SO2,CO,Wind Speed,Humidity,Temp,AQI,AQI Type
+Andaman and Nicobar Islands,Port Blair,11.8,22.3,,,,11.0,70.0,31.0,23.0,Good
+Andhra Pradesh,Kanigiri,4.5,6.5,,,,24.0,32.0,36.0,8.0,Good
+Andhra Pradesh,Ongole,4.5,6.7,,,,20.0,33.0,37.0,8.0,Good
+Andhra Pradesh,Pedda Nakkala Palem,4.5,6.7,,,,16.0,32.0,37.0,8.0,Good
+Andhra Pradesh,Narasaraopeta,4.7,6.9,,,,18.0,36.0,36.0,8.0,Good
+Andhra Pradesh,Chilakaluripet,4.7,6.9,,,,15.0,33.0,37.0,8.0,Good
+Andhra Pradesh,Markapur,4.5,6.5,,,,22.0,36.0,35.0,8.0,Good
+Andhra Pradesh,Addanki,4.5,6.5,,,,21.0,31.0,37.0,8.0,Good
+Andhra Pradesh,Darsi,4.5,6.5,,,,22.0,34.0,36.0,8.0,Good
+Andhra Pradesh,Vinukonda,3.2,4.5,,,,22.0,33.0,36.0,6.0,Good
+Andhra Pradesh,Govindapuram,4.7,6.9,,,,13.0,34.0,36.0,8.0,Good
+Andhra Pradesh,Pavuluru,4.5,6.7,,,,16.0,32.0,37.0,8.0,Good
+Assam,Bakal,16.8,24.1,,,,5.0,69.0,32.0,29.0,Good
+Assam,Naharkatia Kaibatra,16.4,23.4,,,,6.0,71.0,31.0,28.0,Good
+Assam,Dibrugarh,16.8,24.1,,,,6.0,84.0,30.0,29.0,Good
+Assam,Silapathar,16.8,24.1,,,,5.0,77.0,31.0,29.0,Good
+Assam,Tinsukia,16.4,23.4,,,,5.0,76.0,31.0,28.0,Good
+Assam,Bordubi No.1,16.4,23.4,,,,5.0,76.0,31.0,28.0,Good
+Assam,Doom Dooma,16.4,23.4,,,,6.0,76.0,31.0,28.0,Good
+Assam,Bezarchuk Bongali,16.8,24.1,,,,9.0,74.0,32.0,29.0,Good
+Assam,Makum,16.4,23.4,,,,9.0,71.0,31.0,28.0,Good
+Assam,North Lakhimpur,16.8,24.1,,,,10.0,63.0,33.0,29.0,Good
+Assam,Seodhai Kopowhuwa,16.4,23.4,,,,6.0,84.0,30.0,28.0,Good
+India,Namsai,16.4,23.4,,,,2.0,76.0,31.0,28.0,Good
+Assam,Hojai,15.7,22.4,,,,3.0,69.0,32.0,27.0,Good
+Assam,Dhing Town,15.7,22.4,,,,14.0,52.0,35.0,27.0,Good
+Assam,Dhekiajuli,15.7,22.4,,,,17.0,57.0,34.0,27.0,Good
+Assam,Hatimuria,15.7,22.4,,,,15.0,52.0,35.0,27.0,Good
+Assam,Lumding,10.7,15.3,,,,4.0,87.0,29.0,18.0,Good
+Assam,Diphu,10.7,15.3,,,,5.0,77.0,30.0,18.0,Good
+India,Golaghat,9.6,13.7,,,,6.0,81.0,30.0,16.0,Good
+Assam,Rajagaon,15.7,22.4,,,,11.0,59.0,33.0,27.0,Good
+Assam,Garehagi,14.3,20.4,,,,13.0,60.0,33.0,24.0,Good
+Assam,Garmari,15.7,22.4,,,,8.0,63.0,33.0,27.0,Good
+Assam,No.1 Barjuli T.E.,15.7,22.4,,,,12.0,62.0,33.0,27.0,Good
+Assam,Tezpur,15.7,22.4,,,,11.0,60.0,34.0,27.0,Good
+Bihar,Rajgir,22.1,31.5,,,,10.0,58.0,33.0,37.0,Good
+Bihar,Islampur,22.1,31.5,,,,12.0,57.0,33.0,37.0,Good
+Bihar,Khusrupur,22.1,31.5,,,,7.0,54.0,34.0,37.0,Good
+Bihar,Chistipur,22.1,31.5,,,,8.0,55.0,33.0,37.0,Good
+Bihar,Nawada,14.7,21.0,,,,8.0,56.0,33.0,25.0,Good
+Bihar,Bihar Sharif,22.1,31.5,,,,8.0,62.0,32.0,37.0,Good
+Bihar,Warisaliganj,22.1,31.5,,,,7.0,58.0,33.0,37.0,Good
+Bihar,Masaurhi,22.1,31.5,,,,7.0,55.0,33.0,37.0,Good
+Bihar,Silao,22.1,31.5,,,,9.0,60.0,33.0,37.0,Good
+Bihar,Jahanabad,18.2,25.9,,,,10.0,52.0,34.0,31.0,Good
+Bihar,Hisua,14.7,21.0,,,,10.0,55.0,33.0,25.0,Good
+Punjab,Sahibzada Ajit Singh Nagar,48.0,69.3,,,,8.0,61.0,32.0,81.0,Satisfactory
+Chandigarh,Chandigarh,48.0,69.3,,,,7.0,62.0,31.0,81.0,Satisfactory
+Punjab,Banur,48.0,69.3,,,,11.0,63.0,32.0,81.0,Satisfactory
+Punjab,Kharar,48.0,69.3,,,,6.0,60.0,32.0,81.0,Satisfactory
+Haryana,Orian,48.0,69.3,,,,2.0,75.0,28.0,81.0,Satisfactory
+Haryana,Pinjore,48.0,69.3,,,,4.0,72.0,29.0,81.0,Satisfactory
+Punjab,Sheikhpur Khurd,48.0,69.3,,,,12.0,65.0,31.0,81.0,Satisfactory
+Haryana,Panchkula,48.0,69.3,,,,8.0,64.0,31.0,81.0,Satisfactory
+Himachal Pradesh,Baddi,48.0,69.3,,,,2.0,68.0,30.0,81.0,Satisfactory
+Himachal Pradesh,Parwanoo,48.0,69.3,,,,2.0,78.0,26.0,81.0,Satisfactory
+Himachal Pradesh,Kasauli,48.0,69.3,,,,1.0,82.0,24.0,81.0,Satisfactory
+Chhattisgarh,Bhatapara,5.2,7.4,,,,11.0,66.0,31.0,9.0,Good
+Chhattisgarh,Durg,5.2,7.4,,,,14.0,68.0,30.0,9.0,Good
+Chhattisgarh,Lahraud,5.6,8.0,,,,8.0,66.0,30.0,10.0,Good
+Chhattisgarh,Bhilai,5.2,7.4,,,,14.0,68.0,30.0,9.0,Good
+Chhattisgarh,Charoda,5.2,7.4,,,,14.0,67.0,30.0,9.0,Good
+Chhattisgarh,Bemetra,5.2,7.4,,,,16.0,62.0,31.0,9.0,Good
+Chhattisgarh,Dhamtari,2.4,3.4,,,,11.0,73.0,29.0,4.0,Good
+Chhattisgarh,Patan,5.2,7.4,,,,13.0,70.0,29.0,9.0,Good
+Chhattisgarh,Baloda Bazar,5.6,8.0,,,,9.0,70.0,30.0,10.0,Good
+Chhattisgarh,Arang,5.2,7.4,,,,11.0,67.0,29.0,9.0,Good
+Chhattisgarh,Raipur,5.2,7.4,,,,6.0,65.0,29.0,9.0,Good
+Maharashtra,Jawhar,17.0,33.4,,,,8.0,97.0,23.0,34.0,Good
+Gujarat,Valsad,21.4,52.1,,,,14.0,93.0,26.0,53.0,Satisfactory
+Dadra and Nagar Haveli,Dadra,21.4,52.1,,,,11.0,91.0,26.0,53.0,Satisfactory
+Gujarat,Vapi,21.4,52.1,,,,14.0,90.0,26.0,53.0,Satisfactory
+Gujarat,Killa-pardi,21.4,52.1,,,,13.0,93.0,26.0,53.0,Satisfactory
+Gujarat,Dharampur,13.3,24.5,,,,8.0,97.0,25.0,25.0,Good
+Dadra and Nagar Haveli,Silvassa,13.3,24.5,,,,11.0,91.0,26.0,25.0,Good
+Gujarat,Parnera,21.4,52.1,,,,12.0,94.0,26.0,53.0,Satisfactory
+Daman and Diu,Daman,21.4,52.1,,,,16.0,89.0,26.0,53.0,Satisfactory
+Dadra and Nagar Haveli,Amli,13.3,24.5,,,,10.0,92.0,26.0,25.0,Good
+Maharashtra,Dahanu,21.5,52.1,,,,12.0,89.0,26.0,53.0,Satisfactory
+Gujarat,Vapi,21.4,52.1,,,,14.0,90.0,26.0,53.0,Satisfactory
+Gujarat,Dharampur,13.3,24.5,,,,8.0,97.0,25.0,25.0,Good
+Dadra and Nagar Haveli,Silvassa,13.3,24.5,,,,11.0,91.0,26.0,25.0,Good
+Dadra and Nagar Haveli,Dadra,21.4,52.1,,,,11.0,91.0,26.0,53.0,Satisfactory
+Dadra and Nagar Haveli,Amli,13.3,24.5,,,,10.0,92.0,26.0,25.0,Good
+Gujarat,Valsad,21.4,52.1,,,,14.0,93.0,26.0,53.0,Satisfactory
+Gujarat,Killa-pardi,21.4,52.1,,,,13.0,93.0,26.0,53.0,Satisfactory
+Gujarat,Parnera,21.4,52.1,,,,12.0,94.0,26.0,53.0,Satisfactory
+Gujarat,Bilimora,21.4,52.1,,,,14.0,94.0,26.0,53.0,Satisfactory
+Daman and Diu,Daman,21.4,52.1,,,,16.0,89.0,26.0,53.0,Satisfactory
+Gujarat,Chikhli,13.3,24.5,,,,12.0,95.0,25.0,25.0,Good
+Haryana,Khewra,17.0,40.0,,,,20.0,69.0,31.0,40.0,Good
+Uttar Pradesh,Khekra,20.0,46.0,,,,19.0,68.0,31.0,46.0,Good
+Delhi,Delhi,28.0,61.2,33.3,10.3,818.8,11.0,66.0,32.0,62.0,Satisfactory
+Uttar Pradesh,Loni Dehat,25.0,53.0,,,,20.0,67.0,31.0,53.0,Satisfactory
+Haryana,Kharkhoda,23.0,48.0,,,,21.0,64.0,32.0,48.0,Good
+Delhi Division,New Delhi,23.1,49.3,48.5,8.3,512.5,11.0,66.0,32.0,50.0,Good
+Haryana,Bahadurgarh,22.0,78.0,,,,21.0,68.0,31.0,78.0,Satisfactory
+Delhi,Gurugram,20.1,51.7,,,,11.0,66.0,32.0,52.0,Satisfactory
+Haryana,Sankhol,22.0,78.0,,,,21.0,68.0,31.0,78.0,Satisfactory
+Haryana,Ferozpur Bangar,23.0,48.0,,,,21.0,60.0,33.0,48.0,Good
+Uttar Pradesh,Baghpat,20.0,46.0,,,,19.0,65.0,31.0,46.0,Good
+South Goa,Chinchinim,16.9,34.6,,,,14.0,70.0,28.0,35.0,Good
+Goa,Quepem,11.7,21.1,,,,14.0,70.0,30.0,22.0,Good
+South Goa,Davorlim,16.9,34.6,,,,15.0,68.0,28.0,35.0,Good
+Goa,Talaulim,16.9,34.6,,,,13.0,83.0,28.0,35.0,Good
+Goa,Curchorem,11.7,21.1,,,,14.0,70.0,30.0,22.0,Good
+South Goa,Cuncolim,16.9,34.6,,,,14.0,70.0,28.0,35.0,Good
+Goa,Vodlemol Cacora,11.7,21.1,,,,13.0,71.0,30.0,22.0,Good
+South Goa,Margao,16.9,34.6,,,,15.0,68.0,28.0,35.0,Good
+Goa,Sanguem,11.7,21.1,,,,13.0,72.0,29.0,22.0,Good
+Goa,Bandoda,16.9,34.6,,,,13.0,83.0,28.0,35.0,Good
+Goa,Ponda,11.7,21.1,,,,15.0,66.0,28.0,22.0,Good
+Gujarat,Sayla,12.9,25.6,,,,23.0,76.0,28.0,26.0,Good
+Gujarat,Botad,12.9,25.6,,,,23.0,71.0,29.0,26.0,Good
+Gujarat,Shapar,16.4,47.9,,,,22.0,64.0,31.0,48.0,Good
+Gujarat,Vinchhiya,12.9,25.6,,,,20.0,79.0,27.0,26.0,Good
+Gujarat,Rajkot,16.4,47.9,,,,23.0,64.0,31.0,48.0,Good
+Gujarat,Wankaner,16.4,47.9,,,,24.0,74.0,29.0,48.0,Good
+Gujarat,Thangadh,12.9,25.6,,,,27.0,74.0,29.0,26.0,Good
+Gujarat,Paliyad,12.9,25.6,,,,22.0,77.0,28.0,26.0,Good
+Gujarat,Chotila,12.9,25.6,,,,25.0,77.0,27.0,26.0,Good
+Gujarat,Babra,14.9,34.2,,,,18.0,76.0,28.0,35.0,Good
+Gujarat,Jasdan,12.9,25.6,,,,19.0,79.0,27.0,26.0,Good
+Haryana,Barwala,31.1,45.8,,,,19.0,61.0,32.0,52.0,Satisfactory
+Haryana,Bhiwani,35.9,53.2,,,,23.0,64.0,31.0,60.0,Satisfactory
+Jind,Jind,29.6,49.9,,,,20.0,65.0,31.0,50.0,Good
+Hisar,Hansi,31.1,45.8,,,,17.0,67.0,31.0,52.0,Satisfactory
+Haryana,Meham,35.9,53.2,,,,23.0,64.0,32.0,60.0,Satisfactory
+Hisar,Narnaund,29.6,49.9,,,,18.0,67.0,31.0,50.0,Good
+Haryana,Tosham,35.5,53.1,,,,22.0,64.0,31.0,60.0,Satisfactory
+Hisar,Hisar,31.1,45.8,,,,20.0,61.0,32.0,52.0,Satisfactory
+Hisar,Gangwa,31.1,45.8,,,,21.0,60.0,32.0,52.0,Satisfactory
+Haryana,Kalanaur,35.9,53.2,,,,24.0,66.0,31.0,60.0,Satisfactory
+Haryana,Julana,29.6,49.9,,,,21.0,65.0,32.0,50.0,Good
+Himachal Pradesh,Shimla,29.5,42.2,,,,7.0,83.0,20.0,50.0,Good
+Himachal Pradesh,Theog,29.5,42.2,,,,8.0,83.0,19.0,50.0,Good
+Himachal Pradesh,Kotkhai,29.5,42.2,,,,8.0,79.0,19.0,50.0,Good
+Himachal Pradesh,Rajgarh,60.3,86.2,,,,6.0,90.0,19.0,102.0,Moderate
+Himachal Pradesh,Kasauli,48.0,69.3,,,,1.0,82.0,24.0,81.0,Satisfactory
+Himachal Pradesh,Subathu,48.0,69.3,,,,3.0,87.0,25.0,81.0,Satisfactory
+Himachal Pradesh,Dagshai,60.3,86.2,,,,1.0,85.0,22.0,102.0,Moderate
+Himachal Pradesh,Narkand,29.5,42.2,,,,9.0,79.0,21.0,50.0,Good
+Himachal Pradesh,Suni,29.5,42.2,,,,9.0,73.0,28.0,50.0,Good
+Himachal Pradesh,Arki,82.9,121.7,,,,7.0,77.0,24.0,177.0,Moderate
+Himachal Pradesh,Solan,60.3,86.2,,,,2.0,88.0,21.0,102.0,Moderate
+Jharkhand,Kanke,14.0,20.0,,,,6.0,65.0,29.0,24.0,Good
+Jharkhand,Lohardaga,10.4,14.9,,,,11.0,69.0,29.0,18.0,Good
+Jharkhand,Barkakana,14.0,20.0,,,,7.0,68.0,30.0,24.0,Good
+Jharkhand,Gumia,14.0,20.0,,,,6.0,70.0,30.0,24.0,Good
+Jharkhand,Kuju,14.0,20.0,,,,6.0,63.0,31.0,24.0,Good
+Jharkhand,Khunti,14.0,20.0,,,,10.0,73.0,29.0,24.0,Good
+Jharkhand,Ranchi,14.0,20.0,,,,6.0,65.0,29.0,24.0,Good
+Jharkhand,Ramgarh Cantonment,14.0,20.0,,,,6.0,64.0,31.0,24.0,Good
+Jharkhand,Ray,14.0,20.0,,,,10.0,74.0,29.0,24.0,Good
+Jharkhand,Hazaribagh,14.0,20.0,,,,12.0,66.0,29.0,24.0,Good
+Jharkhand,Bundu,14.0,20.0,,,,9.0,68.0,31.0,24.0,Good
+Tripura,Kamalpur,4.0,5.8,,,,6.0,73.0,31.0,7.0,Good
+Mizoram,Kolasib,5.8,8.3,,,,4.0,91.0,24.0,10.0,Good
+Tripura,Dharmanagar,5.8,8.3,,,,4.0,82.0,31.0,10.0,Good
+Assam,Uttar Kanchanpur Pt I,5.8,8.3,,,,7.0,75.0,32.0,10.0,Good
+India,Karimganj,5.8,8.3,,,,7.0,74.0,32.0,10.0,Good
+Assam,Silchar,5.8,8.3,,,,6.0,79.0,31.0,10.0,Good
+Assam,Lakhipur,4.6,6.6,,,,6.0,77.0,32.0,8.0,Good
+India,Kailashahar,5.8,8.3,,,,5.0,69.0,32.0,10.0,Good
+India,Karimganj,5.8,8.3,,,,7.0,74.0,32.0,10.0,Good
+Assam,Bishnupur,5.8,8.3,,,,6.0,62.0,33.0,10.0,Good
+Assam,Narainpur Pt V,5.8,8.3,,,,8.0,68.0,33.0,10.0,Good
+Karnataka,Huvina Hadagali,1.8,2.6,,,,28.0,59.0,29.0,3.0,Good
+Karnataka,Mundargi,1.8,2.6,,,,30.0,56.0,29.0,3.0,Good
+Karnataka,Gadag-Betigeri,1.8,2.6,,,,31.0,58.0,29.0,3.0,Good
+Karnataka,Mulgund,1.8,2.6,,,,30.0,60.0,29.0,3.0,Good
+Karnataka,Annigeri,1.8,2.6,,,,31.0,57.0,29.0,3.0,Good
+Karnataka,Laxmeshwar,1.8,2.6,,,,28.0,62.0,29.0,3.0,Good
+Karnataka,Kawaloor,1.8,2.6,,,,29.0,56.0,29.0,3.0,Good
+Karnataka,Naregal,1.8,2.6,,,,26.0,59.0,28.0,3.0,Good
+Karnataka,Yelburga,1.7,2.4,,,,23.0,60.0,28.0,3.0,Good
+Karnataka,Shirahatti,1.8,2.6,,,,29.0,60.0,28.0,3.0,Good
+Karnataka,Rona,1.8,2.6,,,,23.0,58.0,29.0,3.0,Good
+Kerala,Tirur,14.8,28.8,,,,15.0,83.0,27.0,29.0,Good
+Kerala,Thrissur,13.9,25.6,,,,11.0,80.0,28.0,26.0,Good
+Kerala,Ottapalam,13.9,25.6,,,,10.0,86.0,28.0,26.0,Good
+Kerala,Mannarkkad,13.9,25.6,,,,10.0,90.0,29.0,26.0,Good
+Kerala,Cherpulassery,13.9,25.6,,,,10.0,88.0,28.0,26.0,Good
+Kerala,Guruvayur,13.9,25.6,,,,16.0,82.0,28.0,26.0,Good
+Kerala,Manjeri,13.3,22.3,,,,19.0,94.0,26.0,23.0,Good
+Kerala,Malappuram,13.3,22.3,,,,19.0,94.0,27.0,23.0,Good
+Kerala,Shoranur,13.9,25.6,,,,10.0,84.0,29.0,26.0,Good
+Kerala,Chelakkara,13.9,25.6,,,,10.0,86.0,28.0,26.0,Good
+Kerala,Kunnamkulam,13.9,25.6,,,,15.0,81.0,28.0,26.0,Good
+Bihar,Chatapur,16.0,23.0,,,,7.0,53.0,34.0,27.0,Good
+Bihar,Bhag Kohalia,16.0,23.0,,,,11.0,53.0,34.0,27.0,Good
+West Bengal,Darjeeling,11.6,16.6,,,,7.0,87.0,20.0,20.0,Good
+West Bengal,Montiviot Tea Garden,15.2,21.7,,,,6.0,74.0,24.0,26.0,Good
+West Bengal,Mirik,15.2,21.7,,,,5.0,79.0,23.0,26.0,Good
+Sikkim,Geyzing,11.6,16.6,,,,5.0,91.0,24.0,20.0,Good
+Bihar,Sitapur,16.0,23.0,,,,14.0,51.0,34.0,27.0,Good
+Koshi,Jogbani,16.0,23.0,,,,12.0,50.0,34.0,27.0,Good
+Bihar,Birpur,16.0,23.0,,,,13.0,48.0,35.0,27.0,Good
+West Bengal,Satbhaiya,15.2,21.7,,,,4.0,48.0,34.0,26.0,Good
+Sikkim,Majhitar,11.6,16.6,,,,7.0,85.0,28.0,20.0,Good
+Puducherry,Mahé,14.6,29.8,,,,14.0,77.0,27.0,30.0,Good
+Kerala,Thalassery,14.6,29.8,,,,15.0,77.0,29.0,30.0,Good
+Kerala,Nileshwar,15.5,31.1,,,,15.0,74.0,31.0,32.0,Good
+Kerala,Azhikkal,14.6,29.8,,,,16.0,75.0,30.0,30.0,Good
+Kerala,Payyanur,15.5,31.1,,,,15.0,73.0,31.0,32.0,Good
+Kerala,Vatakara,14.6,29.8,,,,14.0,81.0,29.0,30.0,Good
+Lakshadweep,Kavaratti,15.1,29.0,,,,30.0,82.0,27.0,30.0,Good
+Kerala,Kannur,14.6,29.8,,,,15.0,76.0,30.0,30.0,Good
+Kerala,Muzhappilangad,14.6,29.8,,,,15.0,75.0,28.0,30.0,Good
+Kerala,Kanhangad,15.5,31.1,,,,14.0,76.0,32.0,32.0,Good
+Kerala,Swamikunnu,14.6,29.8,,,,15.0,77.0,29.0,30.0,Good
+Madhya Pradesh,Harrai,3.8,5.3,,,,22.0,77.0,28.0,7.0,Good
+Madhya Pradesh,Deori,3.8,5.4,,,,10.0,78.0,28.0,7.0,Good
+Madhya Pradesh,Dungariya,5.1,7.3,,,,12.0,79.0,27.0,9.0,Good
+Madhya Pradesh,Begumganj,5.1,7.3,,,,18.0,82.0,26.0,9.0,Good
+Madhya Pradesh,Sultanpur,7.2,10.2,,,,19.0,83.0,28.0,13.0,Good
+Madhya Pradesh,Pachmarhi,4.2,5.9,,,,11.0,78.0,25.0,7.0,Good
+Madhya Pradesh,Udaipura,5.1,7.3,,,,13.0,78.0,28.0,9.0,Good
+Madhya Pradesh,Narsinghpur,3.8,5.3,,,,16.0,73.0,30.0,7.0,Good
+Madhya Pradesh,Gadarwara,4.2,5.9,,,,10.0,81.0,28.0,7.0,Good
+Madhya Pradesh,Chichli,4.2,5.9,,,,11.0,79.0,29.0,7.0,Good
+Madhya Pradesh,Sohagpur,4.2,5.9,,,,17.0,77.0,28.0,7.0,Good
+Maharashtra,Georai,1.8,2.7,,,,24.0,73.0,28.0,4.0,Good
+Maharashtra,Partur,3.1,4.4,,,,14.0,86.0,26.0,6.0,Good
+Aurangabad,Paithan,1.8,2.7,,,,24.0,75.0,28.0,4.0,Good
+Maharashtra,Wadgaon Kolhati,1.8,2.7,,,,11.0,100.0,23.0,4.0,Good
+Maharashtra,Pipri,1.8,2.7,,,,11.0,100.0,23.0,4.0,Good
+Maharashtra,Deulgaon Raja,4.4,6.1,,,,21.0,85.0,26.0,8.0,Good
+Maharashtra,Ambad,1.8,2.7,,,,13.0,83.0,27.0,4.0,Good
+Maharashtra,Aurangabad,1.8,2.7,,,,9.0,78.0,26.0,4.0,Good
+Maharashtra,Kesapuri Tanda,1.8,2.7,,,,26.0,87.0,23.0,4.0,Good
+Maharashtra,Waladgaon,1.8,2.7,,,,11.0,100.0,23.0,4.0,Good
+Maharashtra,Jalna,1.8,2.7,,,,23.0,80.0,27.0,4.0,Good
+Manipur,Laipham Siphai,4.6,6.6,,,,6.0,66.0,31.0,8.0,Good
+Manipur,Moirang,4.6,6.6,,,,6.0,89.0,27.0,8.0,Good
+Manipur,Tengnoupal,2.9,4.1,,,,1.0,98.0,23.0,5.0,Good
+Manipur,Kakching,4.6,6.6,,,,6.0,86.0,27.0,8.0,Good
+Manipur,Torban,4.6,6.6,,,,6.0,66.0,31.0,8.0,Good
+Manipur,Chandel,2.9,4.1,,,,2.0,93.0,26.0,5.0,Good
+Manipur,Tengkhal Khunou,4.6,6.6,,,,6.0,66.0,31.0,8.0,Good
+Manipur,Mayang Imphal,4.6,6.6,,,,6.0,66.0,31.0,8.0,Good
+Manipur,Thoubal,4.6,6.6,,,,6.0,66.0,31.0,8.0,Good
+Manipur,Yambem,2.9,4.1,,,,6.0,66.0,31.0,5.0,Good
+Manipur,Purnaheitupokpi,2.9,4.1,,,,5.0,88.0,31.0,5.0,Good
+India,Jiribam,4.6,6.6,,,,6.0,73.0,32.0,8.0,Good
+Assam,Goalpara,13.2,18.8,,,,14.0,61.0,33.0,22.0,Good
+Assam,Gajia,13.5,19.3,,,,19.0,52.0,34.0,23.0,Good
+Assam,Guwahati,13.5,19.3,,,,13.0,70.0,33.0,23.0,Good
+Assam,Khetri Hardia,13.5,19.3,,,,13.0,70.0,33.0,23.0,Good
+Meghalaya,Mairang,5.4,7.8,,,,5.0,88.0,21.0,10.0,Good
+Meghalaya,Nongstoin,5.4,7.8,,,,8.0,83.0,23.0,10.0,Good
+Meghalaya,Khliehriāt,11.7,16.6,,,,4.0,90.0,23.0,20.0,Good
+Assam,Palasbari,13.5,19.3,,,,13.0,70.0,33.0,23.0,Good
+Meghalaya,Resubelpara,6.3,9.1,,,,3.0,80.0,30.0,11.0,Good
+Assam,Saualkuchi,13.5,19.3,,,,13.0,70.0,33.0,23.0,Good
+Churachandpur,Pherzawl,4.6,6.6,,,,2.0,93.0,25.0,8.0,Good
+Mizoram,North Vanlaiphai,2.8,4.0,,,,3.0,96.0,23.0,5.0,Good
+Mizoram,Darlawn,5.8,8.3,,,,3.0,89.0,24.0,10.0,Good
+Mizoram,Kolasib,5.8,8.3,,,,4.0,91.0,24.0,10.0,Good
+Mizoram,Lunglei,4.4,7.7,,,,3.0,96.0,24.0,8.0,Good
+Mizoram,Siaha,4.4,7.7,,,,4.0,97.0,25.0,8.0,Good
+Mizoram,Khawhai,2.8,4.0,,,,3.0,94.0,25.0,5.0,Good
+Assam,Bokajan,14.3,20.4,,,,7.0,70.0,34.0,24.0,Good
+Nagaland,Kohima,5.3,7.6,,,,5.0,92.0,24.0,9.0,Good
+Assam,Amguri,9.6,13.7,,,,5.0,71.0,32.0,16.0,Good
+Assam,Jorhat,9.6,13.7,,,,9.0,76.0,31.0,16.0,Good
+Assam,Nazira,9.6,13.7,,,,4.0,75.0,31.0,16.0,Good
+Nagaland,Mokokchung,9.6,13.7,,,,2.0,86.0,25.0,16.0,Good
+Assam,Handique Gaon,9.6,13.7,,,,5.0,79.0,30.0,16.0,Good
+Nagaland,Wokha,9.6,13.7,,,,2.0,94.0,23.0,16.0,Good
+Nagaland,Longleng,9.6,13.7,,,,5.0,80.0,26.0,16.0,Good
+Assam,Kumarpatty,14.3,20.4,,,,8.0,81.0,30.0,24.0,Good
+Assam,Barpathar,14.3,20.4,,,,5.0,84.0,30.0,24.0,Good
+Odisha,Nayana Sagar,15.8,23.0,,,,3.0,69.0,33.0,27.0,Good
+Odisha,Kamakhyanagar,15.8,23.0,,,,3.0,70.0,32.0,27.0,Good
+Odisha,Talcher Town,15.8,23.0,,,,4.0,65.0,32.0,27.0,Good
+Odisha,Dhenkanal,15.8,23.0,,,,5.0,72.0,32.0,27.0,Good
+Odisha,Angul,15.8,23.0,,,,3.0,66.0,32.0,27.0,Good
+Odisha,Athagarh,15.8,23.0,,,,10.0,77.0,31.0,27.0,Good
+Odisha,Athmallik,8.1,11.6,,,,2.0,80.0,29.0,14.0,Good
+Odisha,Banki,15.8,23.0,,,,10.0,79.0,31.0,27.0,Good
+Odisha,Talcher,15.8,23.0,,,,4.0,65.0,32.0,27.0,Good
+Odisha,Bhuban,15.8,23.0,,,,6.0,62.0,33.0,27.0,Good
+Odisha,Deogarh,7.2,10.2,,,,7.0,73.0,30.0,12.0,Good
+Tamil Nadu,Valavanur,6.5,9.6,,,,15.0,54.0,32.0,11.0,Good
+Tamil Nadu,Ayan Kurinjipadi,6.5,9.6,,,,14.0,59.0,32.0,11.0,Good
+Tamil Nadu,Tindivanam,9.9,14.2,,,,1.0,42.0,34.0,17.0,Good
+Tamil Nadu,Bommayapalayam,6.5,9.6,,,,22.0,73.0,29.0,11.0,Good
+Tamil Nadu,Viluppuram,6.5,9.6,,,,10.0,44.0,34.0,11.0,Good
+Cuddalore,Cuddalore,6.5,9.6,,,,21.0,77.0,29.0,11.0,Good
+Tamil Nadu,Vikravandi,9.9,14.2,,,,9.0,44.0,34.0,17.0,Good
+Tamil Nadu,Marakkanam,9.9,14.2,,,,19.0,62.0,31.0,17.0,Good
+Tamil Nadu,Alappakkam,6.5,9.6,,,,21.0,73.0,30.0,11.0,Good
+Tamil Nadu,Thorapadi,6.5,9.6,,,,11.0,56.0,32.0,11.0,Good
+Puducherry,Puducherry,6.5,9.6,,,,22.0,73.0,29.0,11.0,Good
+Punjab,Kapurthala,58.6,88.6,,,,4.0,57.0,33.0,98.0,Satisfactory
+Punjab,Makhu,48.2,77.2,,,,6.0,59.0,33.0,81.0,Satisfactory
+Punjab,Nakodar,58.6,88.6,,,,5.0,60.0,32.0,98.0,Satisfactory
+Punjab,Nurmahal,58.6,88.6,,,,5.0,61.0,32.0,98.0,Satisfactory
+Punjab,Kot Ise Khan,43.8,65.7,,,,7.0,62.0,32.0,74.0,Satisfactory
+Punjab,Sultanpur Lodhi,58.6,88.6,,,,5.0,60.0,32.0,98.0,Satisfactory
+India,Nagri-Parole,49.6,77.7,,,,6.0,60.0,31.0,83.0,Satisfactory
+Punjab,Makhdoom Pura,58.6,88.6,,,,6.0,57.0,32.0,98.0,Satisfactory
+Punjab,Jandiala Manjki,58.6,88.6,,,,5.0,60.0,32.0,98.0,Satisfactory
+Punjab,Kartarpur,58.6,88.6,,,,4.0,57.0,33.0,98.0,Satisfactory
+Punjab,Makhdoom Pura,58.6,88.6,,,,6.0,58.0,32.0,98.0,Satisfactory
+Punjab,Shahkot,58.6,88.6,,,,6.0,61.0,32.0,98.0,Satisfactory
+Rajasthan,Parbatsar,18.3,28.0,,,,26.0,65.0,30.0,31.0,Good
+Rajasthan,Pushkar,18.3,28.0,,,,23.0,64.0,30.0,31.0,Good
+Rajasthan,Basni,18.6,32.2,,,,21.0,49.0,33.0,33.0,Good
+Rajasthan,Kuchaman City,20.3,32.0,,,,26.0,63.0,31.0,34.0,Good
+Rajasthan,Makrana,20.3,32.0,,,,26.0,64.0,30.0,34.0,Good
+Rajasthan,Didwana,20.3,32.0,,,,22.0,59.0,31.0,34.0,Good
+Rajasthan,Mundwa,18.6,32.2,,,,21.0,50.0,33.0,33.0,Good
+Rajasthan,Merta,18.3,28.0,,,,20.0,59.0,32.0,31.0,Good
+Rajasthan,Nagaur,18.6,32.2,,,,21.0,49.0,33.0,33.0,Good
+Rajasthan,Kuchera,17.1,27.0,,,,20.0,53.0,33.0,29.0,Good
+Rajasthan,Ajmer,18.3,28.0,,,,23.0,66.0,30.0,31.0,Good
+Sikkim,Geyzing,11.6,16.6,,,,5.0,91.0,24.0,20.0,Good
+West Bengal,Montiviot Tea Garden,15.2,21.7,,,,6.0,74.0,24.0,26.0,Good
+West Bengal,Darjeeling,11.6,16.6,,,,7.0,87.0,20.0,20.0,Good
+Sikkim,Namchi,11.6,16.6,,,,7.0,81.0,24.0,20.0,Good
+West Bengal,Mirik,15.2,21.7,,,,5.0,79.0,23.0,26.0,Good
+Sikkim,Majhitar,11.6,16.6,,,,7.0,85.0,28.0,20.0,Good
+Sikkim,Gangtok,11.6,16.6,,,,5.0,86.0,24.0,20.0,Good
+Sikkim,Singtam,11.6,16.6,,,,5.0,77.0,30.0,20.0,Good
+West Bengal,Kalimpong,11.6,16.6,,,,8.0,71.0,30.0,20.0,Good
+West Bengal,Rangpo Forest,11.6,16.6,,,,6.0,74.0,31.0,20.0,Good
+West Bengal,Dakshin Odlabari,15.2,21.7,,,,6.0,52.0,33.0,26.0,Good
+Tamil Nadu,Thuraiyur,4.8,7.3,,,,14.0,50.0,34.0,8.0,Good
+Tamil Nadu,Ariyalur,6.5,9.6,,,,11.0,47.0,36.0,11.0,Good
+Tamil Nadu,Thirukkattupalli,10.3,14.9,,,,18.0,39.0,36.0,18.0,Good
+Tamil Nadu,Thathaiyangarpet,4.8,7.3,,,,14.0,53.0,34.0,8.0,Good
+Tamil Nadu,Musiri,10.3,14.9,,,,20.0,46.0,34.0,18.0,Good
+Tamil Nadu,Veeraganur,4.8,7.3,,,,22.0,44.0,34.0,8.0,Good
+Tamil Nadu,Erumapatti,4.8,7.3,,,,10.0,57.0,33.0,8.0,Good
+Tamil Nadu,Pullambadi,10.3,14.9,,,,17.0,39.0,36.0,18.0,Good
+Tamil Nadu,Lalgudi,10.3,14.9,,,,19.0,39.0,39.0,18.0,Good
+Tamil Nadu,Tiruchirappalli,10.3,14.9,,,,19.0,39.0,39.0,18.0,Good
+Tamil Nadu,Mettupalayam,4.8,7.3,,,,12.0,55.0,33.0,8.0,Good
+Telangana,Bhuvanagiri,8.1,5.5,,,,21.0,61.0,31.0,14.0,Good
+Telangana,Kottapalli,10.7,4.6,,,,16.0,63.0,31.0,18.0,Good
+Telangana,Gudur,8.1,5.5,,,,20.0,62.0,31.0,14.0,Good
+Telangana,Jangaon,3.4,4.8,,,,19.0,63.0,30.0,6.0,Good
+Telangana,Siddipet,7.4,5.6,,,,19.0,64.0,30.0,13.0,Good
+Telangana,Peddapalli,10.7,4.6,,,,14.0,62.0,31.0,18.0,Good
+Telangana,Vemulawada,7.4,5.6,,,,18.0,67.0,30.0,13.0,Good
+Telangana,Karimnagar,10.7,4.6,,,,17.0,62.0,30.0,18.0,Good
+Telangana,Narsingi,7.4,5.6,,,,19.0,68.0,29.0,13.0,Good
+Telangana,Warangal,3.4,4.8,,,,6.0,67.0,30.0,6.0,Good
+Telangana,Sircilla,7.4,5.6,,,,18.0,67.0,30.0,13.0,Good
+Tripura,Khowai,4.0,5.8,,,,7.0,83.0,30.0,7.0,Good
+India,Kailashahar,5.8,8.3,,,,5.0,69.0,32.0,10.0,Good
+India,Kailashahar,5.8,8.3,,,,5.0,69.0,32.0,10.0,Good
+Tripura,Ambassa,4.9,7.2,,,,4.0,93.0,29.0,9.0,Good
+Tripura,Dharmanagar,5.8,8.3,,,,4.0,82.0,31.0,10.0,Good
+Tripura,Ranirbazar,4.9,7.2,,,,11.0,59.0,35.0,9.0,Good
+Tripura,Udaipur,4.9,7.2,,,,8.0,77.0,31.0,9.0,Good
+Tripura,Amarpur,4.9,7.2,,,,6.0,83.0,30.0,9.0,Good
+Tripura,Kamalpur,4.0,5.8,,,,6.0,73.0,31.0,7.0,Good
+Uttar Pradesh,Itaunja,14.7,21.0,,,,23.0,58.0,33.0,25.0,Good
+Uttar Pradesh,Kakori,15.8,22.6,,,,26.0,74.0,32.0,27.0,Good
+Uttar Pradesh,Gosainganj,18.6,26.5,,,,15.0,65.0,32.0,32.0,Good
+Uttar Pradesh,Satrikh,18.6,26.5,,,,13.0,68.0,31.0,32.0,Good
+Uttar Pradesh,Malihabad,15.8,22.6,,,,15.0,63.0,32.0,27.0,Good
+Uttar Pradesh,Lucknow,15.8,22.6,,,,26.0,74.0,32.0,27.0,Good
+Uttar Pradesh,Mohan,15.8,22.6,,,,17.0,63.0,32.0,27.0,Good
+Uttar Pradesh,Nagram,18.6,26.5,,,,17.0,65.0,32.0,32.0,Good
+Uttar Pradesh,Zaidpur,18.6,26.5,,,,12.0,69.0,31.0,32.0,Good
+Uttar Pradesh,Barabanki,18.6,26.5,,,,13.0,68.0,32.0,32.0,Good
+Uttar Pradesh,Dewa,18.8,30.9,,,,15.0,66.0,32.0,32.0,Good
+Uttarakhand,Devprayag,29.4,42.1,,,,7.0,76.0,27.0,50.0,Good
+Uttarakhand,Dhandri Talli,29.4,42.1,,,,7.0,70.0,26.0,50.0,Good
+Uttarakhand,Salaraitoli,9.1,12.9,,,,6.0,76.0,23.0,16.0,Good
+Uttarakhand,Kotdwar,49.4,71.4,,,,5.0,68.0,30.0,83.0,Satisfactory
+Uttarakhand,Sandana,29.4,42.1,,,,6.0,84.0,26.0,50.0,Good
+Uttarakhand,Lansdowne,49.4,71.4,,,,6.0,68.0,23.0,83.0,Satisfactory
+Uttarakhand,Ranikhet,29.4,42.1,,,,7.0,78.0,23.0,50.0,Good
+Uttarakhand,Srinagar,29.4,42.1,,,,7.0,71.0,30.0,50.0,Good
+Uttarakhand,Dugadda,49.4,71.4,,,,6.0,68.0,27.0,83.0,Satisfactory
+Uttarakhand,Ghaglori,29.4,42.1,,,,7.0,72.0,26.0,50.0,Good
+Uttarakhand,Rudraprayag,29.4,42.1,,,,8.0,75.0,30.0,50.0,Good
+West Bengal,Shrirampur,18.1,26.8,,,,13.0,67.0,32.0,31.0,Good
+West Bengal,Bagnan,18.1,26.8,,,,13.0,67.0,32.0,31.0,Good
+West Bengal,Talchinan-Sanihati,18.1,26.8,,,,14.0,66.0,32.0,31.0,Good
+West Medinipur,Ghatal,16.1,22.8,,,,12.0,61.0,33.0,27.0,Good
+West Medinipur,Kharar,16.1,22.8,,,,12.0,60.0,33.0,27.0,Good
+West Bengal,Arambag,16.1,22.8,,,,12.0,64.0,32.0,27.0,Good
+West Bengal,Memari,25.8,36.9,,,,13.0,66.0,32.0,44.0,Good
+West Bengal,Bardhaman,24.7,35.2,,,,13.0,67.0,32.0,42.0,Good
+West Bengal,Patrasayer,24.7,35.2,,,,10.0,63.0,32.0,42.0,Good
+West Medinipur,Ramjibanpur,16.1,22.8,,,,12.0,61.0,33.0,27.0,Good
+West Bengal,Bhanjipur,18.1,26.8,,,,12.0,68.0,32.0,31.0,Good
