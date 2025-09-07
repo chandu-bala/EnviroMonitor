@@ -5,3 +5,7 @@ scikit-learn
 numpy
 matplotlib
 seaborn
+geopy
+joblib
+xgboost
+lightgbm
