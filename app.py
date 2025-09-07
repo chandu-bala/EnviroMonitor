@@ -17,12 +17,16 @@ def load_and_geocode():
     df = pd.read_csv("notebooks/AQI_Clean_Data.csv")  # raw AQI dataset
 
     states = df['State'].unique()
-    geolocator = Nominatim(user_agent="my_app")
+    geolocator = Nominatim(user_agent="aqi_app")
 
     lat_lng_data = []
     for state in states:
         try:
-            location = geolocator.geocode(state + ", India")  # ensure India context
+            location = geolocator.geocode(
+                state,
+                country_codes="IN",   # force only India
+                exactly_one=True
+            )
             if location:
                 lat_lng_data.append((state, location.latitude, location.longitude))
             else:
@@ -33,6 +37,13 @@ def load_and_geocode():
 
     df_lat_lng = pd.DataFrame(lat_lng_data, columns=["State", "Latitude", "Longitude"])
     merged_df = df.merge(df_lat_lng, on="State", how="left")
+
+    # Filter out bad coordinates (outside India’s bounding box)
+    merged_df = merged_df[
+        (merged_df["Latitude"].between(6, 38)) &
+        (merged_df["Longitude"].between(68, 98))
+    ]
+
     return merged_df
 
 df = load_and_geocode()
@@ -47,20 +58,23 @@ st.title("🌏 India Air Quality Index (AQI) Dashboard")
 # -----------------------------
 st.subheader("Overall AQI across India (Live Geocoded)")
 
-fig = px.scatter_mapbox(
-    df,
-    lat="Latitude",
-    lon="Longitude",
-    size="AQI",  # replace with your AQI column
-    color="AQI",
-    hover_name="State",
-    color_continuous_scale=px.colors.cyclical.IceFire,
-    zoom=3,
-    height=600
-)
-fig.update_layout(mapbox_style="open-street-map")
-fig.update_layout(margin={"r": 0, "t": 30, "l": 0, "b": 0})
-st.plotly_chart(fig, use_container_width=True)
+if not df.empty:
+    fig = px.scatter_mapbox(
+        df,
+        lat="Latitude",
+        lon="Longitude",
+        size="AQI",  # replace with your AQI column
+        color="AQI",
+        hover_name="State",
+        color_continuous_scale=px.colors.cyclical.IceFire,
+        zoom=3,
+        height=600
+    )
+    fig.update_layout(mapbox_style="open-street-map")
+    fig.update_layout(margin={"r": 0, "t": 30, "l": 0, "b": 0})
+    st.plotly_chart(fig, use_container_width=True)
+else:
+    st.error("❌ No valid geocoded data found. Please check dataset.")
 
 # -----------------------------
 # State Search
