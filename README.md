@@ -1,17 +1,43 @@
-# 🌍 India AQI Dashboard
+# 🌏 India AQI Dashboard
 
-This project analyzes and visualizes Air Quality Index (AQI) data across Indian cities.
+An interactive **Air Quality Index (AQI) Dashboard** for India built with **Streamlit** and **Plotly**.  
+The dashboard visualizes AQI across Indian states with geocoded locations and provides state-wise search functionality.  
 
-## Features
-- Interactive AQI visualizations
-- City-level AQI analysis
-- Pollution category distribution
-- Correlation heatmap
-- ML preprocessing (scaling & transformations)
+## 🚀 Live Demo
+👉 [Click here to view the live dashboard](https://YOUR-STREAMLIT-LINK.streamlit.app)  
 
-## Run Locally
-```bash
-git clone https://github.com/<username>/india-aqi-dashboard.git
-cd india-aqi-dashboard
-pip install -r requirements.txt
-streamlit run app.py
+*(Replace the above link with your actual Streamlit Cloud / Hugging Face / deployment URL.)*
+
+---
+
+## 📊 Features
+- Interactive **map visualization** of AQI across India  
+- State-wise **search and filtering**  
+- Clean and **user-friendly interface** using Streamlit  
+- Data geocoded dynamically with `geopy`  
+
+---
+
+## 🗂️ Dataset
+- Source: `AQI_Clean_Data.csv` (392 rows)  
+- Columns include:  
+  - `State` → Name of the Indian state  
+  - `AQI` → Air Quality Index value  
+  - Additional columns as per dataset  
+
+---
+
+## ⚙️ Tech Stack
+- **Python 3.9+**  
+- **Streamlit** – Web App Framework  
+- **Plotly Express** – Interactive Visualizations  
+- **Geopy** – Geocoding states into latitude/longitude  
+- **Pandas** – Data handling  
+
+---
+
+## 🖥️ Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   cd YOUR-REPO
