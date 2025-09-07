@@ -1,33 +1,21 @@
 # 🌏 India AQI Dashboard
 
-An interactive **Air Quality Index (AQI) Dashboard** for India built with **Streamlit** and **Plotly**.  
-The dashboard visualizes AQI across Indian states with geocoded locations and provides state-wise search functionality.  
-
-## 🚀 Live Demo
-👉 [Click here to view the live dashboard](https://YOUR-STREAMLIT-LINK.streamlit.app)  
-
-*(Replace the above link with your actual Streamlit Cloud / Hugging Face / deployment URL.)*
+This project visualizes and analyzes **Air Quality Index (AQI)** data across Indian states.  
+It provides an **interactive dashboard** built with **Streamlit** and **Plotly**, along with live geocoding of states using the **Geopy** library.
 
 ---
 
 ## 📊 Features
-- Interactive **map visualization** of AQI across India  
-- State-wise **search and filtering**  
-- Clean and **user-friendly interface** using Streamlit  
-- Data geocoded dynamically with `geopy`  
 
----
+- 🗺️ **Interactive Map** showing AQI values across Indian states.  
+- 🔍 **Search Bar** to explore AQI details for a specific state.  
+- 📈 **Dynamic AQI Visualization** using Plotly Mapbox.  
+- ⚡ **Real-time Geocoding** of states to fetch latitude and longitude.  
 
-## 🗂️ Dataset
-- Source: `AQI_Clean_Data.csv` (392 rows)  
-- Columns include:  
-  - `State` → Name of the Indian state  
-  - `AQI` → Air Quality Index value  
-  - Additional columns as per dataset  
 
----
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & 📦 Dependencies
+
 - **Python 3.9+**  
 - **Streamlit** – Web App Framework  
 - **Plotly Express** – Interactive Visualizations  
@@ -36,8 +24,13 @@ The dashboard visualizes AQI across Indian states with geocoded locations and pr
 
 ---
 
-## 🖥️ Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-   cd YOUR-REPO
+## 🚀 Live Dashboard (The app will be available at) :
+
+👉 Click here to view the live app [EnviroMonitor](https://enviromonitor-myzmn5ndiofc2pbhzvcxbb.streamlit.app/)  
+
+
+## 📌 Future Improvements
+
+This dashboard can be further optimized for faster loading by using techniques such as caching, pre-computed geocoding, or lighter mapping libraries.
+If you’re interested in improvements or collaboration, feel free to contact me for further details.
+mail id : chandududdela0103@gmail.com
